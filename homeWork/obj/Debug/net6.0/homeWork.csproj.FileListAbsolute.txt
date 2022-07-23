@@ -1,0 +1,15 @@
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.csproj.AssemblyReference.cache
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.AssemblyInfoInputs.cache
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.AssemblyInfo.cs
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.csproj.CoreCompileInputs.cache
+/Users/valery/Desktop/новая папка 2/homeWork/bin/Debug/net6.0/homeWork
+/Users/valery/Desktop/новая папка 2/homeWork/bin/Debug/net6.0/homeWork.deps.json
+/Users/valery/Desktop/новая папка 2/homeWork/bin/Debug/net6.0/homeWork.runtimeconfig.json
+/Users/valery/Desktop/новая папка 2/homeWork/bin/Debug/net6.0/homeWork.dll
+/Users/valery/Desktop/новая папка 2/homeWork/bin/Debug/net6.0/homeWork.pdb
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.dll
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/refint/homeWork.dll
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.pdb
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/homeWork.genruntimeconfig.cache
+/Users/valery/Desktop/новая папка 2/homeWork/obj/Debug/net6.0/ref/homeWork.dll
